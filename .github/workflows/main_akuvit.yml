@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'akuvit'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AB8904EE15F5476A8C03DA94E7F7C34D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_238163E263B74F3297C5C5E6D8A094B7 }}
